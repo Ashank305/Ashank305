@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashank Arora!
 
-<!--
-**Ashank305/Ashank305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Competitive Programmer & Software Developer**  
+📍 **Student at SKIT Jaipur**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm passionate about competitive programming and software development. Currently, I'm studying at SKIT Jaipur, focusing on mastering algorithms, data structures, and building efficient software solutions.
+
+### 💻 Tech Stack
+
+- **Languages:** Java, C++, Python
+- **Development:** Web and software applications
+
+### 🏆 Competitive Programming
+
+Active participant in coding contests, continuously improving my problem-solving skills.
+
+### 🚀 Projects
+
+Always working on new projects, exploring innovative ideas in tech.
+
+### 📚 Education
+
+- **B.Tech in Computer Science**  
+  SKIT Jaipur
+
+---
